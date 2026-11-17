@@ -1,0 +1,526 @@
+[
+ {
+  "symbol": "AGIIL",
+  "key": "NSE_EQ|INE976R01033",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 316.63,
+  "close_date": "2026-11-13",
+  "rsi": 72.7,
+  "rs_pts": 29.5,
+  "turnover_cr": 78.69
+ },
+ {
+  "symbol": "PARAGMILK",
+  "key": "NSE_EQ|INE883N01014",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 331.22,
+  "close_date": "2026-11-13",
+  "rsi": 68.9,
+  "rs_pts": 24.9,
+  "turnover_cr": 104.55
+ },
+ {
+  "symbol": "BOROLTD",
+  "key": "NSE_EQ|INE02PY01013",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 311.5,
+  "close_date": "2026-11-13",
+  "rsi": 64.7,
+  "rs_pts": 24.2,
+  "turnover_cr": 163.12
+ },
+ {
+  "symbol": "ATHERENERG",
+  "key": "NSE_EQ|INE0LEZ01016",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 1945.0,
+  "close_date": "2026-11-13",
+  "rsi": 74.4,
+  "rs_pts": 21.3,
+  "turnover_cr": 856.99
+ },
+ {
+  "symbol": "MARSONS",
+  "key": "NSE_EQ|INE415B01044",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 147.49,
+  "close_date": "2026-11-13",
+  "rsi": 58.9,
+  "rs_pts": 18.5,
+  "turnover_cr": 571.19
+ },
+ {
+  "symbol": "SAILIFE",
+  "key": "NSE_EQ|INE570L01029",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 1928.8,
+  "close_date": "2026-11-13",
+  "rsi": 78.9,
+  "rs_pts": 17.2,
+  "turnover_cr": 229.11
+ },
+ {
+  "symbol": "SAREGAMA",
+  "key": "NSE_EQ|INE979A01025",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 653.45,
+  "close_date": "2026-11-13",
+  "rsi": 74.3,
+  "rs_pts": 16.5,
+  "turnover_cr": 103.9
+ },
+ {
+  "symbol": "UNOMINDA",
+  "key": "NSE_EQ|INE405E01023",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 1388.0,
+  "close_date": "2026-11-13",
+  "rsi": 77.8,
+  "rs_pts": 14.7,
+  "turnover_cr": 108.5
+ },
+ {
+  "symbol": "PPLPHARMA",
+  "key": "NSE_EQ|INE0DK501011",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 244.54,
+  "close_date": "2026-11-13",
+  "rsi": 70.2,
+  "rs_pts": 14.5,
+  "turnover_cr": 261.3
+ },
+ {
+  "symbol": "LODHA",
+  "key": "NSE_EQ|INE670K01029",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 1220.0,
+  "close_date": "2026-11-13",
+  "rsi": 65.4,
+  "rs_pts": 11.7,
+  "turnover_cr": 106.66
+ },
+ {
+  "symbol": "CHOLAFIN",
+  "key": "NSE_EQ|INE121A01024",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 1850.0,
+  "close_date": "2026-11-13",
+  "rsi": 70.1,
+  "rs_pts": 11.2,
+  "turnover_cr": 302.13
+ },
+ {
+  "symbol": "MUTHOOTFIN",
+  "key": "NSE_EQ|INE414G01012",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 2840.0,
+  "close_date": "2026-11-13",
+  "rsi": 59.4,
+  "rs_pts": 10.1,
+  "turnover_cr": 188.74
+ },
+ {
+  "symbol": "GODREJPROP",
+  "key": "NSE_EQ|INE484J01027",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 1854.9,
+  "close_date": "2026-11-13",
+  "rsi": 65.5,
+  "rs_pts": 10.1,
+  "turnover_cr": 79.38
+ },
+ {
+  "symbol": "ACUTAAS",
+  "key": "NSE_EQ|INE00FF01025",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 4039.1,
+  "close_date": "2026-11-13",
+  "rsi": 68.7,
+  "rs_pts": 9.9,
+  "turnover_cr": 152.29
+ },
+ {
+  "symbol": "INDIGO",
+  "key": "NSE_EQ|INE646L01027",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 5587.3,
+  "close_date": "2026-11-13",
+  "rsi": 72.4,
+  "rs_pts": 9.6,
+  "turnover_cr": 347.47
+ },
+ {
+  "symbol": "ADANIGREEN",
+  "key": "NSE_EQ|INE364U01010",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 1403.0,
+  "close_date": "2026-11-13",
+  "rsi": 58.6,
+  "rs_pts": 9.4,
+  "turnover_cr": 280.18
+ },
+ {
+  "symbol": "SONACOMS",
+  "key": "NSE_EQ|INE073K01018",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 919.0,
+  "close_date": "2026-11-13",
+  "rsi": 66.2,
+  "rs_pts": 8.8,
+  "turnover_cr": 172.01
+ },
+ {
+  "symbol": "GLENMARK",
+  "key": "NSE_EQ|INE935A01035",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 2640.0,
+  "close_date": "2026-11-13",
+  "rsi": 69.6,
+  "rs_pts": 8.8,
+  "turnover_cr": 92.54
+ },
+ {
+  "symbol": "ADANIENSOL",
+  "key": "NSE_EQ|INE931S01010",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 1438.5,
+  "close_date": "2026-11-13",
+  "rsi": 59.4,
+  "rs_pts": 8.7,
+  "turnover_cr": 147.89
+ },
+ {
+  "symbol": "MOTILALOFS",
+  "key": "NSE_EQ|INE338I01027",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 1220.0,
+  "close_date": "2026-11-13",
+  "rsi": 73.8,
+  "rs_pts": 8.3,
+  "turnover_cr": 102.79
+ },
+ {
+  "symbol": "LAURUSLABS",
+  "key": "NSE_EQ|INE947Q01028",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 2424.0,
+  "close_date": "2026-11-13",
+  "rsi": 69.7,
+  "rs_pts": 8.0,
+  "turnover_cr": 1519.47
+ },
+ {
+  "symbol": "ANGELONE",
+  "key": "NSE_EQ|INE732I01021",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 349.0,
+  "close_date": "2026-11-13",
+  "rsi": 73.8,
+  "rs_pts": 7.9,
+  "turnover_cr": 254.98
+ },
+ {
+  "symbol": "GROWW",
+  "key": "NSE_EQ|INE0HOQ01053",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 224.95,
+  "close_date": "2026-11-13",
+  "rsi": 70.6,
+  "rs_pts": 7.7,
+  "turnover_cr": 337.06
+ },
+ {
+  "symbol": "HDFCAMC",
+  "key": "NSE_EQ|INE127D01025",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 2663.0,
+  "close_date": "2026-11-13",
+  "rsi": 66.2,
+  "rs_pts": 7.0,
+  "turnover_cr": 117.64
+ },
+ {
+  "symbol": "BSE",
+  "key": "NSE_EQ|INE118H01025",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 3937.7,
+  "close_date": "2026-11-13",
+  "rsi": 75.5,
+  "rs_pts": 6.9,
+  "turnover_cr": 883.91
+ },
+ {
+  "symbol": "PATANJALI",
+  "key": "NSE_EQ|INE619A01035",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 421.0,
+  "close_date": "2026-11-13",
+  "rsi": 68.2,
+  "rs_pts": 6.9,
+  "turnover_cr": 242.96
+ },
+ {
+  "symbol": "DIACABS",
+  "key": "NSE_EQ|INE989C01038",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 378.15,
+  "close_date": "2026-11-13",
+  "rsi": 59.1,
+  "rs_pts": 6.9,
+  "turnover_cr": 78.81
+ },
+ {
+  "symbol": "NAVINFLUOR",
+  "key": "NSE_EQ|INE048G01026",
+  "setups": [
+   "breakout_20d"
+  ],
+  "close": 10002.0,
+  "close_date": "2026-11-13",
+  "rsi": 75.3,
+  "rs_pts": 6.7,
+  "turnover_cr": 225.59
+ },
+ {
+  "symbol": "COMSYN",
+  "key": "NSE_EQ|INE073V01015",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 245.09,
+  "close_date": "2026-11-13",
+  "rsi": 52.5,
+  "rs_pts": 6.5,
+  "turnover_cr": 96.52
+ },
+ {
+  "symbol": "MARICO",
+  "key": "NSE_EQ|INE196A01026",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 900.0,
+  "close_date": "2026-11-13",
+  "rsi": 68.1,
+  "rs_pts": 6.4,
+  "turnover_cr": 181.11
+ },
+ {
+  "symbol": "BAJFINANCE",
+  "key": "NSE_EQ|INE296A01032",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 1117.0,
+  "close_date": "2026-11-13",
+  "rsi": 72.0,
+  "rs_pts": 6.3,
+  "turnover_cr": 912.97
+ },
+ {
+  "symbol": "MCX",
+  "key": "NSE_EQ|INE745G01043",
+  "setups": [
+   "breakout_20d",
+   "bull_flag"
+  ],
+  "close": 3720.0,
+  "close_date": "2026-11-13",
+  "rsi": 68.2,
+  "rs_pts": 6.1,
+  "turnover_cr": 566.34
+ },
+ {
+  "symbol": "LTF",
+  "key": "NSE_EQ|INE498L01015",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 277.45,
+  "close_date": "2026-11-13",
+  "rsi": 57.4,
+  "rs_pts": 6.1,
+  "turnover_cr": 80.09
+ },
+ {
+  "symbol": "TITAN",
+  "key": "NSE_EQ|INE280A01028",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 4844.9,
+  "close_date": "2026-11-13",
+  "rsi": 59.3,
+  "rs_pts": 5.5,
+  "turnover_cr": 448.02
+ },
+ {
+  "symbol": "WABAG",
+  "key": "NSE_EQ|INE956G01038",
+  "setups": [
+   "bull_flag"
+  ],
+  "close": 2040.1,
+  "close_date": "2026-11-13",
+  "rsi": 60.3,
+  "rs_pts": 5.5,
+  "turnover_cr": 365.2
+ },
+ {
+  "symbol": "HEROMOTORS",
+  "key": "NSE_EQ|INE012G01022",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 125.32,
+  "close_date": "2026-11-13",
+  "rsi": 56.5,
+  "rs_pts": -2.2,
+  "turnover_cr": 185.31
+ },
+ {
+  "symbol": "AMBER",
+  "key": "NSE_EQ|INE371P01015",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 6772.0,
+  "close_date": "2026-11-13",
+  "rsi": 58.1,
+  "rs_pts": -4.1,
+  "turnover_cr": 638.11
+ },
+ {
+  "symbol": "PAGEIND",
+  "key": "NSE_EQ|INE761H01022",
+  "setups": [
+   "oversold"
+  ],
+  "close": 31325.0,
+  "close_date": "2026-11-13",
+  "rsi": 29.7,
+  "rs_pts": -4.5,
+  "turnover_cr": 142.52
+ },
+ {
+  "symbol": "TECHNOCRAF",
+  "key": "NSE_EQ|INE1D0W01018",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 494.6,
+  "close_date": "2026-11-13",
+  "rsi": 52.7,
+  "rs_pts": -4.9,
+  "turnover_cr": 76.5
+ },
+ {
+  "symbol": "ORCHPHARMA",
+  "key": "NSE_EQ|INE191A01027",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 884.4,
+  "close_date": "2026-11-13",
+  "rsi": 48.4,
+  "rs_pts": -5.3,
+  "turnover_cr": 74.33
+ },
+ {
+  "symbol": "PTCIL",
+  "key": "NSE_EQ|INE596F01018",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 24365.0,
+  "close_date": "2026-11-13",
+  "rsi": 52.5,
+  "rs_pts": -7.0,
+  "turnover_cr": 91.55
+ },
+ {
+  "symbol": "GESHIP",
+  "key": "NSE_EQ|INE017A01032",
+  "setups": [
+   "reclaim_ma20"
+  ],
+  "close": 1518.0,
+  "close_date": "2026-11-13",
+  "rsi": 52.8,
+  "rs_pts": -15.3,
+  "turnover_cr": 118.19
+ },
+ {
+  "symbol": "PIIND",
+  "key": "NSE_EQ|INE603J01030",
+  "setups": [
+   "oversold"
+  ],
+  "close": 1714.8,
+  "close_date": "2026-11-13",
+  "rsi": 28.3,
+  "rs_pts": -26.2,
+  "turnover_cr": 98.63
+ }
+]
